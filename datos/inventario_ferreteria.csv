@@ -1,0 +1,13 @@
+codigo,producto,categoria,stock_actual,stock_minimo,consumo_semanal,costo_unitario,proveedor
+FER-001,Cemento gris 50 kg,Construcción,18,40,35,32000,Distribuidora Costa Caribe
+FER-002,"Varilla corrugada 3/8""",Construcción,120,80,45,21500,Aceros del Sinú
+FER-003,"Tubo PVC 1/2"" x 6 m",Plomería,9,25,14,9800,Plásticos Sucre
+FER-004,"Codo PVC 1/2""",Plomería,140,60,40,700,Plásticos Sucre
+FER-005,Pintura blanca vinilo galón,Pinturas,6,15,9,48000,Pinturas del Norte
+FER-006,"Brocha 3""",Pinturas,35,20,8,6500,Pinturas del Norte
+FER-007,"Tornillo drywall 6x1"" (caja 100)",Tornillería,12,30,18,8500,Distribuidora Costa Caribe
+FER-008,"Puntilla 2"" (libra)",Tornillería,55,30,20,4200,Distribuidora Costa Caribe
+FER-009,Cable eléctrico #12 (metro),Eléctricos,150,200,120,3100,Eléctricos Sabanas
+FER-010,Bombillo LED 12W,Eléctricos,48,40,22,7900,Eléctricos Sabanas
+FER-011,Interruptor sencillo,Eléctricos,30,25,10,6200,Eléctricos Sabanas
+FER-012,Candado 40 mm,Seguridad,14,12,5,18500,Aceros del Sinú

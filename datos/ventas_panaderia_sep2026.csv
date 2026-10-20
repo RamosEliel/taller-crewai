@@ -1,0 +1,1065 @@
+fecha,producto,categoria,cantidad,precio_unitario,metodo_pago
+2026-09-01,Pan francés,Panadería,22,500,Nequi
+2026-09-01,Pan francés,Panadería,31,500,Daviplata
+2026-09-01,Pan francés,Panadería,12,500,Nequi
+2026-09-01,Pan francés,Panadería,8,500,Daviplata
+2026-09-01,Pan de queso,Panadería,7,1500,Efectivo
+2026-09-01,Pan de queso,Panadería,3,1500,Nequi
+2026-09-01,Pan de queso,Panadería,11,1500,Efectivo
+2026-09-01,Bollo limpio,Panadería,3,1500,Efectivo
+2026-09-01,Bollo limpio,Panadería,5,1500,Efectivo
+2026-09-01,Bollo limpio,Panadería,7,1500,Efectivo
+2026-09-01,Bollo limpio,Panadería,5,1500,Nequi
+2026-09-01,Croissant,Panadería,1,3000,Nequi
+2026-09-01,Croissant,Panadería,2,3000,Daviplata
+2026-09-01,Pastel de pollo,Salados,3,3500,Daviplata
+2026-09-01,Pastel de pollo,Salados,2,3500,Efectivo
+2026-09-01,Pastel de pollo,Salados,3,3500,Daviplata
+2026-09-01,Pastel de pollo,Salados,4,3500,Nequi
+2026-09-01,Empanada de carne,Salados,3,2500,Daviplata
+2026-09-01,Empanada de carne,Salados,2,2500,Daviplata
+2026-09-01,Empanada de carne,Salados,5,2500,Nequi
+2026-09-01,Empanada de carne,Salados,6,2500,Daviplata
+2026-09-01,Torta de chocolate (porción),Repostería,2,4500,Efectivo
+2026-09-01,Torta de chocolate (porción),Repostería,2,4500,Nequi
+2026-09-01,Torta de chocolate (porción),Repostería,2,4500,Nequi
+2026-09-01,Torta de chocolate (porción),Repostería,1,4500,Efectivo
+2026-09-01,Torta tres leches (porción),Repostería,2,5000,Nequi
+2026-09-01,Torta tres leches (porción),Repostería,1,5000,Tarjeta
+2026-09-01,Galletas de mantequilla (paquete),Repostería,1,3000,Tarjeta
+2026-09-01,Galletas de mantequilla (paquete),Repostería,2,3000,Nequi
+2026-09-01,Galletas de mantequilla (paquete),Repostería,1,3000,Daviplata
+2026-09-01,Galletas de mantequilla (paquete),Repostería,1,3000,Efectivo
+2026-09-01,Café tinto,Bebidas,14,1500,Efectivo
+2026-09-01,Café tinto,Bebidas,5,1500,Efectivo
+2026-09-01,Jugo natural,Bebidas,4,3500,Efectivo
+2026-09-01,Jugo natural,Bebidas,2,3500,Nequi
+2026-09-01,Jugo natural,Bebidas,1,3500,Nequi
+2026-09-01,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-01,Avena fría,Bebidas,2,3000,Efectivo
+2026-09-01,Avena fría,Bebidas,3,3000,Nequi
+2026-09-01,Avena fría,Bebidas,2,3000,Daviplata
+2026-09-02,Pan francés,Panadería,17,500,Tarjeta
+2026-09-02,Pan francés,Panadería,22,500,Efectivo
+2026-09-02,Pan de queso,Panadería,9,1500,Efectivo
+2026-09-02,Pan de queso,Panadería,5,1500,Daviplata
+2026-09-02,Pan de queso,Panadería,11,1500,Efectivo
+2026-09-02,Bollo limpio,Panadería,1,1500,Efectivo
+2026-09-02,Bollo limpio,Panadería,2,1500,Daviplata
+2026-09-02,Bollo limpio,Panadería,5,1500,Daviplata
+2026-09-02,Croissant,Panadería,2,3000,Efectivo
+2026-09-02,Croissant,Panadería,1,3000,Efectivo
+2026-09-02,Croissant,Panadería,1,3000,Tarjeta
+2026-09-02,Pastel de pollo,Salados,2,3500,Nequi
+2026-09-02,Pastel de pollo,Salados,1,3500,Efectivo
+2026-09-02,Pastel de pollo,Salados,5,3500,Nequi
+2026-09-02,Empanada de carne,Salados,7,2500,Tarjeta
+2026-09-02,Empanada de carne,Salados,6,2500,Daviplata
+2026-09-02,Empanada de carne,Salados,6,2500,Efectivo
+2026-09-02,Torta de chocolate (porción),Repostería,1,4500,Efectivo
+2026-09-02,Torta de chocolate (porción),Repostería,2,4500,Efectivo
+2026-09-02,Torta tres leches (porción),Repostería,2,5000,Nequi
+2026-09-02,Torta tres leches (porción),Repostería,5,5000,Efectivo
+2026-09-02,Torta tres leches (porción),Repostería,1,5000,Efectivo
+2026-09-02,Galletas de mantequilla (paquete),Repostería,1,3000,Nequi
+2026-09-02,Galletas de mantequilla (paquete),Repostería,1,3000,Efectivo
+2026-09-02,Café tinto,Bebidas,5,1500,Efectivo
+2026-09-02,Café tinto,Bebidas,8,1500,Nequi
+2026-09-02,Café tinto,Bebidas,8,1500,Efectivo
+2026-09-02,Café tinto,Bebidas,7,1500,Efectivo
+2026-09-02,Jugo natural,Bebidas,3,3500,Tarjeta
+2026-09-02,Jugo natural,Bebidas,6,3500,Nequi
+2026-09-02,Jugo natural,Bebidas,4,3500,Nequi
+2026-09-02,Jugo natural,Bebidas,3,3500,Nequi
+2026-09-02,Avena fría,Bebidas,3,3000,Tarjeta
+2026-09-02,Avena fría,Bebidas,1,3000,Efectivo
+2026-09-03,Pan francés,Panadería,13,500,Nequi
+2026-09-03,Pan francés,Panadería,23,500,Efectivo
+2026-09-03,Pan francés,Panadería,13,500,Efectivo
+2026-09-03,Pan de queso,Panadería,10,1500,Efectivo
+2026-09-03,Pan de queso,Panadería,9,1500,Efectivo
+2026-09-03,Pan de queso,Panadería,11,1500,Nequi
+2026-09-03,Bollo limpio,Panadería,5,1500,Daviplata
+2026-09-03,Bollo limpio,Panadería,6,1500,Daviplata
+2026-09-03,Croissant,Panadería,2,3000,Daviplata
+2026-09-03,Croissant,Panadería,4,3000,Daviplata
+2026-09-03,Croissant,Panadería,3,3000,Daviplata
+2026-09-03,Croissant,Panadería,3,3000,Efectivo
+2026-09-03,Pastel de pollo,Salados,1,3500,Efectivo
+2026-09-03,Pastel de pollo,Salados,3,3500,Nequi
+2026-09-03,Empanada de carne,Salados,2,2500,Nequi
+2026-09-03,Empanada de carne,Salados,4,2500,Efectivo
+2026-09-03,Torta de chocolate (porción),Repostería,2,4500,Efectivo
+2026-09-03,Torta de chocolate (porción),Repostería,1,4500,Nequi
+2026-09-03,Torta de chocolate (porción),Repostería,1,4500,Efectivo
+2026-09-03,Torta tres leches (porción),Repostería,1,5000,Nequi
+2026-09-03,Torta tres leches (porción),Repostería,5,5000,Efectivo
+2026-09-03,Torta tres leches (porción),Repostería,3,5000,Efectivo
+2026-09-03,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-03,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-03,Galletas de mantequilla (paquete),Repostería,1,3000,Efectivo
+2026-09-03,Café tinto,Bebidas,5,1500,Efectivo
+2026-09-03,Café tinto,Bebidas,4,1500,Nequi
+2026-09-03,Café tinto,Bebidas,10,1500,Efectivo
+2026-09-03,Jugo natural,Bebidas,4,3500,Efectivo
+2026-09-03,Jugo natural,Bebidas,6,3500,Nequi
+2026-09-03,Jugo natural,Bebidas,3,3500,Daviplata
+2026-09-03,Jugo natural,Bebidas,2,3500,Efectivo
+2026-09-03,Avena fría,Bebidas,4,3000,Daviplata
+2026-09-03,Avena fría,Bebidas,3,3000,Efectivo
+2026-09-03,Avena fría,Bebidas,2,3000,Daviplata
+2026-09-04,Pan francés,Panadería,20,500,Nequi
+2026-09-04,Pan francés,Panadería,30,500,Efectivo
+2026-09-04,Pan de queso,Panadería,9,1500,Nequi
+2026-09-04,Pan de queso,Panadería,12,1500,Efectivo
+2026-09-04,Bollo limpio,Panadería,4,1500,Tarjeta
+2026-09-04,Bollo limpio,Panadería,6,1500,Efectivo
+2026-09-04,Croissant,Panadería,4,3000,Efectivo
+2026-09-04,Croissant,Panadería,3,3000,Efectivo
+2026-09-04,Croissant,Panadería,5,3000,Efectivo
+2026-09-04,Pastel de pollo,Salados,4,3500,Nequi
+2026-09-04,Pastel de pollo,Salados,4,3500,Efectivo
+2026-09-04,Pastel de pollo,Salados,6,3500,Efectivo
+2026-09-04,Pastel de pollo,Salados,5,3500,Efectivo
+2026-09-04,Empanada de carne,Salados,7,2500,Efectivo
+2026-09-04,Empanada de carne,Salados,8,2500,Efectivo
+2026-09-04,Empanada de carne,Salados,9,2500,Daviplata
+2026-09-04,Torta de chocolate (porción),Repostería,2,4500,Nequi
+2026-09-04,Torta de chocolate (porción),Repostería,4,4500,Efectivo
+2026-09-04,Torta de chocolate (porción),Repostería,3,4500,Efectivo
+2026-09-04,Torta tres leches (porción),Repostería,5,5000,Daviplata
+2026-09-04,Torta tres leches (porción),Repostería,3,5000,Tarjeta
+2026-09-04,Galletas de mantequilla (paquete),Repostería,1,3000,Tarjeta
+2026-09-04,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-04,Galletas de mantequilla (paquete),Repostería,3,3000,Efectivo
+2026-09-04,Café tinto,Bebidas,15,1500,Daviplata
+2026-09-04,Café tinto,Bebidas,15,1500,Efectivo
+2026-09-04,Café tinto,Bebidas,8,1500,Efectivo
+2026-09-04,Café tinto,Bebidas,7,1500,Efectivo
+2026-09-04,Jugo natural,Bebidas,5,3500,Nequi
+2026-09-04,Jugo natural,Bebidas,2,3500,Daviplata
+2026-09-04,Jugo natural,Bebidas,4,3500,Efectivo
+2026-09-04,Avena fría,Bebidas,3,3000,Efectivo
+2026-09-04,Avena fría,Bebidas,5,3000,Tarjeta
+2026-09-04,Avena fría,Bebidas,1,3000,Nequi
+2026-09-04,Avena fría,Bebidas,3,3000,Efectivo
+2026-09-05,Pan francés,Panadería,28,500,Tarjeta
+2026-09-05,Pan francés,Panadería,16,500,Efectivo
+2026-09-05,Pan francés,Panadería,25,500,Nequi
+2026-09-05,Pan francés,Panadería,37,500,Efectivo
+2026-09-05,Pan de queso,Panadería,9,1500,Nequi
+2026-09-05,Pan de queso,Panadería,15,1500,Efectivo
+2026-09-05,Pan de queso,Panadería,13,1500,Efectivo
+2026-09-05,Bollo limpio,Panadería,9,1500,Nequi
+2026-09-05,Bollo limpio,Panadería,7,1500,Efectivo
+2026-09-05,Croissant,Panadería,3,3000,Efectivo
+2026-09-05,Croissant,Panadería,4,3000,Daviplata
+2026-09-05,Croissant,Panadería,2,3000,Nequi
+2026-09-05,Pastel de pollo,Salados,5,3500,Nequi
+2026-09-05,Pastel de pollo,Salados,8,3500,Nequi
+2026-09-05,Pastel de pollo,Salados,9,3500,Daviplata
+2026-09-05,Empanada de carne,Salados,7,2500,Efectivo
+2026-09-05,Empanada de carne,Salados,6,2500,Nequi
+2026-09-05,Empanada de carne,Salados,9,2500,Efectivo
+2026-09-05,Torta de chocolate (porción),Repostería,4,4500,Daviplata
+2026-09-05,Torta de chocolate (porción),Repostería,3,4500,Nequi
+2026-09-05,Torta tres leches (porción),Repostería,4,5000,Nequi
+2026-09-05,Torta tres leches (porción),Repostería,4,5000,Nequi
+2026-09-05,Torta tres leches (porción),Repostería,4,5000,Daviplata
+2026-09-05,Torta tres leches (porción),Repostería,5,5000,Tarjeta
+2026-09-05,Galletas de mantequilla (paquete),Repostería,2,3000,Daviplata
+2026-09-05,Galletas de mantequilla (paquete),Repostería,2,3000,Nequi
+2026-09-05,Café tinto,Bebidas,11,1500,Efectivo
+2026-09-05,Café tinto,Bebidas,17,1500,Tarjeta
+2026-09-05,Jugo natural,Bebidas,2,3500,Efectivo
+2026-09-05,Jugo natural,Bebidas,5,3500,Daviplata
+2026-09-05,Jugo natural,Bebidas,6,3500,Tarjeta
+2026-09-05,Avena fría,Bebidas,3,3000,Efectivo
+2026-09-05,Avena fría,Bebidas,5,3000,Nequi
+2026-09-05,Avena fría,Bebidas,6,3000,Efectivo
+2026-09-05,Avena fría,Bebidas,4,3000,Efectivo
+2026-09-06,Pan francés,Panadería,23,500,Efectivo
+2026-09-06,Pan francés,Panadería,33,500,Efectivo
+2026-09-06,Pan francés,Panadería,31,500,Efectivo
+2026-09-06,Pan de queso,Panadería,7,1500,Efectivo
+2026-09-06,Pan de queso,Panadería,10,1500,Nequi
+2026-09-06,Pan de queso,Panadería,8,1500,Nequi
+2026-09-06,Pan de queso,Panadería,7,1500,Tarjeta
+2026-09-06,Bollo limpio,Panadería,4,1500,Daviplata
+2026-09-06,Bollo limpio,Panadería,4,1500,Nequi
+2026-09-06,Bollo limpio,Panadería,6,1500,Efectivo
+2026-09-06,Bollo limpio,Panadería,6,1500,Efectivo
+2026-09-06,Croissant,Panadería,3,3000,Nequi
+2026-09-06,Croissant,Panadería,5,3000,Efectivo
+2026-09-06,Croissant,Panadería,4,3000,Daviplata
+2026-09-06,Croissant,Panadería,2,3000,Efectivo
+2026-09-06,Pastel de pollo,Salados,5,3500,Nequi
+2026-09-06,Pastel de pollo,Salados,6,3500,Daviplata
+2026-09-06,Empanada de carne,Salados,3,2500,Efectivo
+2026-09-06,Empanada de carne,Salados,6,2500,Nequi
+2026-09-06,Empanada de carne,Salados,7,2500,Tarjeta
+2026-09-06,Torta de chocolate (porción),Repostería,2,4500,Efectivo
+2026-09-06,Torta de chocolate (porción),Repostería,3,4500,Nequi
+2026-09-06,Torta tres leches (porción),Repostería,4,5000,Efectivo
+2026-09-06,Torta tres leches (porción),Repostería,2,5000,Efectivo
+2026-09-06,Torta tres leches (porción),Repostería,3,5000,Efectivo
+2026-09-06,Torta tres leches (porción),Repostería,3,5000,Nequi
+2026-09-06,Galletas de mantequilla (paquete),Repostería,4,3000,Tarjeta
+2026-09-06,Galletas de mantequilla (paquete),Repostería,2,3000,Nequi
+2026-09-06,Galletas de mantequilla (paquete),Repostería,2,3000,Nequi
+2026-09-06,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-06,Café tinto,Bebidas,7,1500,Nequi
+2026-09-06,Café tinto,Bebidas,14,1500,Efectivo
+2026-09-06,Jugo natural,Bebidas,5,3500,Daviplata
+2026-09-06,Jugo natural,Bebidas,5,3500,Efectivo
+2026-09-06,Jugo natural,Bebidas,4,3500,Efectivo
+2026-09-06,Avena fría,Bebidas,3,3000,Nequi
+2026-09-06,Avena fría,Bebidas,2,3000,Nequi
+2026-09-07,Pan francés,Panadería,2,500,Efectivo
+2026-09-07,Pan francés,Panadería,9,500,Efectivo
+2026-09-07,Pan francés,Panadería,17,500,Efectivo
+2026-09-07,Pan francés,Panadería,15,500,Tarjeta
+2026-09-07,Pan de queso,Panadería,7,1500,Tarjeta
+2026-09-07,Pan de queso,Panadería,1,1500,Nequi
+2026-09-07,Bollo limpio,Panadería,3,1500,Tarjeta
+2026-09-07,Bollo limpio,Panadería,6,1500,Efectivo
+2026-09-07,Bollo limpio,Panadería,5,1500,Daviplata
+2026-09-07,Bollo limpio,Panadería,6,1500,Daviplata
+2026-09-07,Croissant,Panadería,1,3000,Daviplata
+2026-09-07,Croissant,Panadería,3,3000,Efectivo
+2026-09-07,Croissant,Panadería,4,3000,Nequi
+2026-09-07,Croissant,Panadería,2,3000,Nequi
+2026-09-07,Pastel de pollo,Salados,5,3500,Nequi
+2026-09-07,Pastel de pollo,Salados,6,3500,Nequi
+2026-09-07,Empanada de carne,Salados,6,2500,Efectivo
+2026-09-07,Empanada de carne,Salados,1,2500,Efectivo
+2026-09-07,Torta de chocolate (porción),Repostería,1,4500,Nequi
+2026-09-07,Torta de chocolate (porción),Repostería,2,4500,Nequi
+2026-09-07,Torta de chocolate (porción),Repostería,2,4500,Daviplata
+2026-09-07,Torta de chocolate (porción),Repostería,1,4500,Nequi
+2026-09-07,Torta tres leches (porción),Repostería,3,5000,Nequi
+2026-09-07,Torta tres leches (porción),Repostería,2,5000,Daviplata
+2026-09-07,Torta tres leches (porción),Repostería,4,5000,Efectivo
+2026-09-07,Torta tres leches (porción),Repostería,3,5000,Tarjeta
+2026-09-07,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-07,Galletas de mantequilla (paquete),Repostería,2,3000,Nequi
+2026-09-07,Galletas de mantequilla (paquete),Repostería,2,3000,Daviplata
+2026-09-07,Café tinto,Bebidas,15,1500,Nequi
+2026-09-07,Café tinto,Bebidas,10,1500,Nequi
+2026-09-07,Jugo natural,Bebidas,4,3500,Efectivo
+2026-09-07,Jugo natural,Bebidas,2,3500,Tarjeta
+2026-09-07,Avena fría,Bebidas,3,3000,Nequi
+2026-09-07,Avena fría,Bebidas,1,3000,Efectivo
+2026-09-07,Avena fría,Bebidas,3,3000,Efectivo
+2026-09-08,Pan francés,Panadería,1,500,Nequi
+2026-09-08,Pan francés,Panadería,29,500,Nequi
+2026-09-08,Pan francés,Panadería,25,500,Efectivo
+2026-09-08,Pan francés,Panadería,27,500,Nequi
+2026-09-08,Pan de queso,Panadería,8,1500,Efectivo
+2026-09-08,Pan de queso,Panadería,8,1500,Daviplata
+2026-09-08,Bollo limpio,Panadería,4,1500,Tarjeta
+2026-09-08,Bollo limpio,Panadería,2,1500,Daviplata
+2026-09-08,Bollo limpio,Panadería,1,1500,Efectivo
+2026-09-08,Bollo limpio,Panadería,4,1500,Nequi
+2026-09-08,Croissant,Panadería,3,3000,Efectivo
+2026-09-08,Croissant,Panadería,1,3000,Daviplata
+2026-09-08,Croissant,Panadería,1,3000,Efectivo
+2026-09-08,Pastel de pollo,Salados,3,3500,Nequi
+2026-09-08,Pastel de pollo,Salados,3,3500,Nequi
+2026-09-08,Pastel de pollo,Salados,4,3500,Efectivo
+2026-09-08,Pastel de pollo,Salados,1,3500,Efectivo
+2026-09-08,Empanada de carne,Salados,3,2500,Tarjeta
+2026-09-08,Empanada de carne,Salados,5,2500,Efectivo
+2026-09-08,Empanada de carne,Salados,3,2500,Efectivo
+2026-09-08,Empanada de carne,Salados,2,2500,Efectivo
+2026-09-08,Torta de chocolate (porción),Repostería,3,4500,Nequi
+2026-09-08,Torta de chocolate (porción),Repostería,1,4500,Nequi
+2026-09-08,Torta de chocolate (porción),Repostería,2,4500,Efectivo
+2026-09-08,Torta de chocolate (porción),Repostería,2,4500,Efectivo
+2026-09-08,Torta tres leches (porción),Repostería,4,5000,Tarjeta
+2026-09-08,Torta tres leches (porción),Repostería,2,5000,Nequi
+2026-09-08,Galletas de mantequilla (paquete),Repostería,1,3000,Efectivo
+2026-09-08,Galletas de mantequilla (paquete),Repostería,1,3000,Efectivo
+2026-09-08,Café tinto,Bebidas,7,1500,Daviplata
+2026-09-08,Café tinto,Bebidas,7,1500,Nequi
+2026-09-08,Café tinto,Bebidas,5,1500,Daviplata
+2026-09-08,Café tinto,Bebidas,4,1500,Nequi
+2026-09-08,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-08,Jugo natural,Bebidas,4,3500,Efectivo
+2026-09-08,Jugo natural,Bebidas,1,3500,Efectivo
+2026-09-08,Avena fría,Bebidas,4,3000,Efectivo
+2026-09-08,Avena fría,Bebidas,3,3000,Efectivo
+2026-09-08,Avena fría,Bebidas,1,3000,Efectivo
+2026-09-08,Avena fría,Bebidas,2,3000,Nequi
+2026-09-09,Pan francés,Panadería,19,500,Efectivo
+2026-09-09,Pan francés,Panadería,8,500,Daviplata
+2026-09-09,Pan francés,Panadería,16,500,Nequi
+2026-09-09,Pan francés,Panadería,10,500,Daviplata
+2026-09-09,Pan de queso,Panadería,8,1500,Tarjeta
+2026-09-09,Pan de queso,Panadería,4,1500,Efectivo
+2026-09-09,Bollo limpio,Panadería,6,1500,Nequi
+2026-09-09,Bollo limpio,Panadería,6,1500,Efectivo
+2026-09-09,Croissant,Panadería,3,3000,Daviplata
+2026-09-09,Croissant,Panadería,5,3000,Nequi
+2026-09-09,Pastel de pollo,Salados,2,3500,Efectivo
+2026-09-09,Pastel de pollo,Salados,7,3500,Efectivo
+2026-09-09,Empanada de carne,Salados,4,2500,Tarjeta
+2026-09-09,Empanada de carne,Salados,4,2500,Daviplata
+2026-09-09,Empanada de carne,Salados,5,2500,Nequi
+2026-09-09,Empanada de carne,Salados,7,2500,Efectivo
+2026-09-09,Torta de chocolate (porción),Repostería,2,4500,Efectivo
+2026-09-09,Torta de chocolate (porción),Repostería,2,4500,Tarjeta
+2026-09-09,Torta tres leches (porción),Repostería,4,5000,Efectivo
+2026-09-09,Torta tres leches (porción),Repostería,1,5000,Nequi
+2026-09-09,Galletas de mantequilla (paquete),Repostería,1,3000,Nequi
+2026-09-09,Galletas de mantequilla (paquete),Repostería,1,3000,Efectivo
+2026-09-09,Café tinto,Bebidas,12,1500,Efectivo
+2026-09-09,Café tinto,Bebidas,9,1500,Nequi
+2026-09-09,Jugo natural,Bebidas,4,3500,Efectivo
+2026-09-09,Jugo natural,Bebidas,3,3500,Tarjeta
+2026-09-09,Jugo natural,Bebidas,2,3500,Nequi
+2026-09-09,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-09,Avena fría,Bebidas,4,3000,Nequi
+2026-09-09,Avena fría,Bebidas,2,3000,Efectivo
+2026-09-10,Pan francés,Panadería,5,500,Nequi
+2026-09-10,Pan francés,Panadería,15,500,Efectivo
+2026-09-10,Pan de queso,Panadería,8,1500,Nequi
+2026-09-10,Pan de queso,Panadería,6,1500,Nequi
+2026-09-10,Bollo limpio,Panadería,3,1500,Efectivo
+2026-09-10,Bollo limpio,Panadería,5,1500,Efectivo
+2026-09-10,Bollo limpio,Panadería,5,1500,Efectivo
+2026-09-10,Croissant,Panadería,1,3000,Nequi
+2026-09-10,Croissant,Panadería,2,3000,Efectivo
+2026-09-10,Croissant,Panadería,1,3000,Nequi
+2026-09-10,Croissant,Panadería,4,3000,Nequi
+2026-09-10,Pastel de pollo,Salados,3,3500,Nequi
+2026-09-10,Pastel de pollo,Salados,4,3500,Daviplata
+2026-09-10,Pastel de pollo,Salados,6,3500,Tarjeta
+2026-09-10,Pastel de pollo,Salados,7,3500,Efectivo
+2026-09-10,Empanada de carne,Salados,5,2500,Efectivo
+2026-09-10,Empanada de carne,Salados,3,2500,Efectivo
+2026-09-10,Empanada de carne,Salados,5,2500,Efectivo
+2026-09-10,Empanada de carne,Salados,6,2500,Efectivo
+2026-09-10,Torta de chocolate (porción),Repostería,3,4500,Efectivo
+2026-09-10,Torta de chocolate (porción),Repostería,3,4500,Daviplata
+2026-09-10,Torta de chocolate (porción),Repostería,3,4500,Efectivo
+2026-09-10,Torta de chocolate (porción),Repostería,1,4500,Efectivo
+2026-09-10,Torta tres leches (porción),Repostería,2,5000,Nequi
+2026-09-10,Torta tres leches (porción),Repostería,2,5000,Efectivo
+2026-09-10,Torta tres leches (porción),Repostería,3,5000,Efectivo
+2026-09-10,Galletas de mantequilla (paquete),Repostería,1,3000,Tarjeta
+2026-09-10,Galletas de mantequilla (paquete),Repostería,1,3000,Tarjeta
+2026-09-10,Café tinto,Bebidas,13,1500,Efectivo
+2026-09-10,Café tinto,Bebidas,5,1500,Efectivo
+2026-09-10,Jugo natural,Bebidas,5,3500,Nequi
+2026-09-10,Jugo natural,Bebidas,4,3500,Tarjeta
+2026-09-10,Jugo natural,Bebidas,5,3500,Nequi
+2026-09-10,Jugo natural,Bebidas,2,3500,Daviplata
+2026-09-10,Avena fría,Bebidas,3,3000,Efectivo
+2026-09-10,Avena fría,Bebidas,4,3000,Nequi
+2026-09-10,Avena fría,Bebidas,3,3000,Efectivo
+2026-09-11,Pan francés,Panadería,37,500,Nequi
+2026-09-11,Pan francés,Panadería,37,500,Nequi
+2026-09-11,Pan francés,Panadería,14,500,Daviplata
+2026-09-11,Pan francés,Panadería,15,500,Nequi
+2026-09-11,Pan de queso,Panadería,7,1500,Tarjeta
+2026-09-11,Pan de queso,Panadería,7,1500,Daviplata
+2026-09-11,Bollo limpio,Panadería,6,1500,Tarjeta
+2026-09-11,Bollo limpio,Panadería,10,1500,Nequi
+2026-09-11,Bollo limpio,Panadería,7,1500,Efectivo
+2026-09-11,Bollo limpio,Panadería,5,1500,Efectivo
+2026-09-11,Croissant,Panadería,4,3000,Daviplata
+2026-09-11,Croissant,Panadería,1,3000,Efectivo
+2026-09-11,Croissant,Panadería,6,3000,Nequi
+2026-09-11,Croissant,Panadería,2,3000,Daviplata
+2026-09-11,Pastel de pollo,Salados,5,3500,Nequi
+2026-09-11,Pastel de pollo,Salados,6,3500,Efectivo
+2026-09-11,Empanada de carne,Salados,4,2500,Efectivo
+2026-09-11,Empanada de carne,Salados,1,2500,Efectivo
+2026-09-11,Torta de chocolate (porción),Repostería,3,4500,Nequi
+2026-09-11,Torta de chocolate (porción),Repostería,3,4500,Tarjeta
+2026-09-11,Torta de chocolate (porción),Repostería,2,4500,Efectivo
+2026-09-11,Torta tres leches (porción),Repostería,3,5000,Efectivo
+2026-09-11,Torta tres leches (porción),Repostería,3,5000,Efectivo
+2026-09-11,Galletas de mantequilla (paquete),Repostería,2,3000,Daviplata
+2026-09-11,Galletas de mantequilla (paquete),Repostería,2,3000,Daviplata
+2026-09-11,Café tinto,Bebidas,9,1500,Efectivo
+2026-09-11,Café tinto,Bebidas,10,1500,Efectivo
+2026-09-11,Café tinto,Bebidas,4,1500,Efectivo
+2026-09-11,Jugo natural,Bebidas,5,3500,Tarjeta
+2026-09-11,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-11,Jugo natural,Bebidas,4,3500,Tarjeta
+2026-09-11,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-11,Avena fría,Bebidas,4,3000,Efectivo
+2026-09-11,Avena fría,Bebidas,4,3000,Nequi
+2026-09-11,Avena fría,Bebidas,4,3000,Efectivo
+2026-09-11,Avena fría,Bebidas,2,3000,Efectivo
+2026-09-12,Pan francés,Panadería,30,500,Nequi
+2026-09-12,Pan francés,Panadería,27,500,Efectivo
+2026-09-12,Pan de queso,Panadería,8,1500,Nequi
+2026-09-12,Pan de queso,Panadería,7,1500,Efectivo
+2026-09-12,Bollo limpio,Panadería,11,1500,Efectivo
+2026-09-12,Bollo limpio,Panadería,9,1500,Efectivo
+2026-09-12,Bollo limpio,Panadería,5,1500,Efectivo
+2026-09-12,Bollo limpio,Panadería,6,1500,Daviplata
+2026-09-12,Croissant,Panadería,4,3000,Efectivo
+2026-09-12,Croissant,Panadería,3,3000,Efectivo
+2026-09-12,Croissant,Panadería,3,3000,Nequi
+2026-09-12,Pastel de pollo,Salados,5,3500,Nequi
+2026-09-12,Pastel de pollo,Salados,7,3500,Efectivo
+2026-09-12,Pastel de pollo,Salados,8,3500,Efectivo
+2026-09-12,Pastel de pollo,Salados,8,3500,Efectivo
+2026-09-12,Empanada de carne,Salados,5,2500,Efectivo
+2026-09-12,Empanada de carne,Salados,6,2500,Tarjeta
+2026-09-12,Torta de chocolate (porción),Repostería,2,4500,Nequi
+2026-09-12,Torta de chocolate (porción),Repostería,2,4500,Nequi
+2026-09-12,Torta de chocolate (porción),Repostería,2,4500,Tarjeta
+2026-09-12,Torta tres leches (porción),Repostería,1,5000,Efectivo
+2026-09-12,Torta tres leches (porción),Repostería,3,5000,Efectivo
+2026-09-12,Torta tres leches (porción),Repostería,4,5000,Efectivo
+2026-09-12,Torta tres leches (porción),Repostería,3,5000,Daviplata
+2026-09-12,Galletas de mantequilla (paquete),Repostería,2,3000,Nequi
+2026-09-12,Galletas de mantequilla (paquete),Repostería,3,3000,Daviplata
+2026-09-12,Café tinto,Bebidas,22,1500,Efectivo
+2026-09-12,Café tinto,Bebidas,12,1500,Efectivo
+2026-09-12,Jugo natural,Bebidas,5,3500,Efectivo
+2026-09-12,Jugo natural,Bebidas,6,3500,Efectivo
+2026-09-12,Jugo natural,Bebidas,6,3500,Daviplata
+2026-09-12,Jugo natural,Bebidas,5,3500,Nequi
+2026-09-12,Avena fría,Bebidas,4,3000,Nequi
+2026-09-12,Avena fría,Bebidas,3,3000,Efectivo
+2026-09-12,Avena fría,Bebidas,3,3000,Efectivo
+2026-09-12,Avena fría,Bebidas,7,3000,Tarjeta
+2026-09-13,Pan francés,Panadería,38,500,Nequi
+2026-09-13,Pan francés,Panadería,23,500,Efectivo
+2026-09-13,Pan de queso,Panadería,12,1500,Efectivo
+2026-09-13,Pan de queso,Panadería,10,1500,Tarjeta
+2026-09-13,Pan de queso,Panadería,7,1500,Nequi
+2026-09-13,Pan de queso,Panadería,11,1500,Tarjeta
+2026-09-13,Bollo limpio,Panadería,6,1500,Tarjeta
+2026-09-13,Bollo limpio,Panadería,8,1500,Nequi
+2026-09-13,Bollo limpio,Panadería,4,1500,Efectivo
+2026-09-13,Croissant,Panadería,2,3000,Nequi
+2026-09-13,Croissant,Panadería,4,3000,Efectivo
+2026-09-13,Croissant,Panadería,6,3000,Efectivo
+2026-09-13,Croissant,Panadería,4,3000,Efectivo
+2026-09-13,Pastel de pollo,Salados,9,3500,Nequi
+2026-09-13,Pastel de pollo,Salados,6,3500,Daviplata
+2026-09-13,Pastel de pollo,Salados,6,3500,Nequi
+2026-09-13,Empanada de carne,Salados,6,2500,Efectivo
+2026-09-13,Empanada de carne,Salados,3,2500,Daviplata
+2026-09-13,Empanada de carne,Salados,10,2500,Efectivo
+2026-09-13,Torta de chocolate (porción),Repostería,3,4500,Efectivo
+2026-09-13,Torta de chocolate (porción),Repostería,2,4500,Nequi
+2026-09-13,Torta de chocolate (porción),Repostería,3,4500,Efectivo
+2026-09-13,Torta de chocolate (porción),Repostería,1,4500,Efectivo
+2026-09-13,Torta tres leches (porción),Repostería,4,5000,Efectivo
+2026-09-13,Torta tres leches (porción),Repostería,1,5000,Efectivo
+2026-09-13,Torta tres leches (porción),Repostería,3,5000,Efectivo
+2026-09-13,Galletas de mantequilla (paquete),Repostería,1,3000,Daviplata
+2026-09-13,Galletas de mantequilla (paquete),Repostería,2,3000,Tarjeta
+2026-09-13,Galletas de mantequilla (paquete),Repostería,1,3000,Nequi
+2026-09-13,Galletas de mantequilla (paquete),Repostería,2,3000,Nequi
+2026-09-13,Café tinto,Bebidas,21,1500,Efectivo
+2026-09-13,Café tinto,Bebidas,5,1500,Efectivo
+2026-09-13,Café tinto,Bebidas,9,1500,Efectivo
+2026-09-13,Café tinto,Bebidas,11,1500,Efectivo
+2026-09-13,Jugo natural,Bebidas,1,3500,Tarjeta
+2026-09-13,Jugo natural,Bebidas,5,3500,Nequi
+2026-09-13,Jugo natural,Bebidas,4,3500,Tarjeta
+2026-09-13,Avena fría,Bebidas,4,3000,Efectivo
+2026-09-13,Avena fría,Bebidas,4,3000,Tarjeta
+2026-09-13,Avena fría,Bebidas,3,3000,Tarjeta
+2026-09-14,Pan francés,Panadería,18,500,Efectivo
+2026-09-14,Pan francés,Panadería,14,500,Efectivo
+2026-09-14,Pan francés,Panadería,16,500,Efectivo
+2026-09-14,Pan de queso,Panadería,5,1500,Efectivo
+2026-09-14,Pan de queso,Panadería,5,1500,Tarjeta
+2026-09-14,Bollo limpio,Panadería,2,1500,Nequi
+2026-09-14,Bollo limpio,Panadería,5,1500,Nequi
+2026-09-14,Bollo limpio,Panadería,7,1500,Nequi
+2026-09-14,Bollo limpio,Panadería,7,1500,Efectivo
+2026-09-14,Croissant,Panadería,1,3000,Efectivo
+2026-09-14,Croissant,Panadería,1,3000,Tarjeta
+2026-09-14,Croissant,Panadería,1,3000,Daviplata
+2026-09-14,Croissant,Panadería,2,3000,Nequi
+2026-09-14,Pastel de pollo,Salados,1,3500,Efectivo
+2026-09-14,Pastel de pollo,Salados,4,3500,Nequi
+2026-09-14,Empanada de carne,Salados,6,2500,Efectivo
+2026-09-14,Empanada de carne,Salados,7,2500,Nequi
+2026-09-14,Empanada de carne,Salados,3,2500,Efectivo
+2026-09-14,Torta de chocolate (porción),Repostería,2,4500,Efectivo
+2026-09-14,Torta de chocolate (porción),Repostería,3,4500,Tarjeta
+2026-09-14,Torta tres leches (porción),Repostería,3,5000,Efectivo
+2026-09-14,Torta tres leches (porción),Repostería,3,5000,Efectivo
+2026-09-14,Galletas de mantequilla (paquete),Repostería,2,3000,Nequi
+2026-09-14,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-14,Galletas de mantequilla (paquete),Repostería,1,3000,Daviplata
+2026-09-14,Galletas de mantequilla (paquete),Repostería,1,3000,Nequi
+2026-09-14,Café tinto,Bebidas,12,1500,Daviplata
+2026-09-14,Café tinto,Bebidas,4,1500,Nequi
+2026-09-14,Café tinto,Bebidas,5,1500,Nequi
+2026-09-14,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-14,Jugo natural,Bebidas,5,3500,Daviplata
+2026-09-14,Jugo natural,Bebidas,2,3500,Nequi
+2026-09-14,Jugo natural,Bebidas,5,3500,Efectivo
+2026-09-14,Avena fría,Bebidas,3,3000,Efectivo
+2026-09-14,Avena fría,Bebidas,4,3000,Efectivo
+2026-09-14,Avena fría,Bebidas,1,3000,Efectivo
+2026-09-15,Pan francés,Panadería,24,500,Daviplata
+2026-09-15,Pan francés,Panadería,7,500,Nequi
+2026-09-15,Pan francés,Panadería,13,500,Daviplata
+2026-09-15,Pan de queso,Panadería,4,1500,Daviplata
+2026-09-15,Pan de queso,Panadería,11,1500,Daviplata
+2026-09-15,Pan de queso,Panadería,2,1500,Efectivo
+2026-09-15,Bollo limpio,Panadería,4,1500,Nequi
+2026-09-15,Bollo limpio,Panadería,3,1500,Nequi
+2026-09-15,Croissant,Panadería,4,3000,Tarjeta
+2026-09-15,Croissant,Panadería,3,3000,Nequi
+2026-09-15,Croissant,Panadería,2,3000,Efectivo
+2026-09-15,Croissant,Panadería,2,3000,Tarjeta
+2026-09-15,Pastel de pollo,Salados,3,3500,Daviplata
+2026-09-15,Pastel de pollo,Salados,8,3500,Tarjeta
+2026-09-15,Pastel de pollo,Salados,5,3500,Efectivo
+2026-09-15,Empanada de carne,Salados,3,2500,Tarjeta
+2026-09-15,Empanada de carne,Salados,5,2500,Nequi
+2026-09-15,Empanada de carne,Salados,2,2500,Efectivo
+2026-09-15,Torta de chocolate (porción),Repostería,2,4500,Efectivo
+2026-09-15,Torta de chocolate (porción),Repostería,2,4500,Nequi
+2026-09-15,Torta de chocolate (porción),Repostería,1,4500,Efectivo
+2026-09-15,Torta de chocolate (porción),Repostería,1,4500,Nequi
+2026-09-15,Torta tres leches (porción),Repostería,1,5000,Efectivo
+2026-09-15,Torta tres leches (porción),Repostería,4,5000,Nequi
+2026-09-15,Galletas de mantequilla (paquete),Repostería,1,3000,Efectivo
+2026-09-15,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-15,Galletas de mantequilla (paquete),Repostería,2,3000,Nequi
+2026-09-15,Café tinto,Bebidas,6,1500,Efectivo
+2026-09-15,Café tinto,Bebidas,3,1500,Efectivo
+2026-09-15,Café tinto,Bebidas,6,1500,Daviplata
+2026-09-15,Jugo natural,Bebidas,2,3500,Efectivo
+2026-09-15,Jugo natural,Bebidas,4,3500,Efectivo
+2026-09-15,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-15,Avena fría,Bebidas,3,3000,Tarjeta
+2026-09-15,Avena fría,Bebidas,2,3000,Efectivo
+2026-09-15,Avena fría,Bebidas,1,3000,Tarjeta
+2026-09-16,Pan francés,Panadería,12,500,Efectivo
+2026-09-16,Pan francés,Panadería,19,500,Daviplata
+2026-09-16,Pan francés,Panadería,19,500,Daviplata
+2026-09-16,Pan de queso,Panadería,7,1500,Nequi
+2026-09-16,Pan de queso,Panadería,8,1500,Daviplata
+2026-09-16,Bollo limpio,Panadería,1,1500,Efectivo
+2026-09-16,Bollo limpio,Panadería,8,1500,Nequi
+2026-09-16,Bollo limpio,Panadería,2,1500,Efectivo
+2026-09-16,Croissant,Panadería,2,3000,Daviplata
+2026-09-16,Croissant,Panadería,5,3000,Efectivo
+2026-09-16,Croissant,Panadería,4,3000,Nequi
+2026-09-16,Croissant,Panadería,5,3000,Nequi
+2026-09-16,Pastel de pollo,Salados,3,3500,Nequi
+2026-09-16,Pastel de pollo,Salados,4,3500,Efectivo
+2026-09-16,Empanada de carne,Salados,1,2500,Nequi
+2026-09-16,Empanada de carne,Salados,9,2500,Tarjeta
+2026-09-16,Empanada de carne,Salados,2,2500,Nequi
+2026-09-16,Empanada de carne,Salados,3,2500,Efectivo
+2026-09-16,Torta de chocolate (porción),Repostería,3,4500,Tarjeta
+2026-09-16,Torta de chocolate (porción),Repostería,2,4500,Daviplata
+2026-09-16,Torta de chocolate (porción),Repostería,3,4500,Daviplata
+2026-09-16,Torta tres leches (porción),Repostería,4,5000,Efectivo
+2026-09-16,Torta tres leches (porción),Repostería,4,5000,Efectivo
+2026-09-16,Torta tres leches (porción),Repostería,2,5000,Efectivo
+2026-09-16,Torta tres leches (porción),Repostería,4,5000,Efectivo
+2026-09-16,Galletas de mantequilla (paquete),Repostería,1,3000,Nequi
+2026-09-16,Galletas de mantequilla (paquete),Repostería,1,3000,Tarjeta
+2026-09-16,Galletas de mantequilla (paquete),Repostería,2,3000,Tarjeta
+2026-09-16,Galletas de mantequilla (paquete),Repostería,1,3000,Daviplata
+2026-09-16,Café tinto,Bebidas,14,1500,Nequi
+2026-09-16,Café tinto,Bebidas,10,1500,Tarjeta
+2026-09-16,Café tinto,Bebidas,15,1500,Nequi
+2026-09-16,Café tinto,Bebidas,10,1500,Efectivo
+2026-09-16,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-16,Jugo natural,Bebidas,3,3500,Nequi
+2026-09-16,Avena fría,Bebidas,3,3000,Daviplata
+2026-09-16,Avena fría,Bebidas,2,3000,Daviplata
+2026-09-16,Avena fría,Bebidas,2,3000,Efectivo
+2026-09-17,Pan francés,Panadería,35,500,Nequi
+2026-09-17,Pan francés,Panadería,34,500,Nequi
+2026-09-17,Pan francés,Panadería,24,500,Efectivo
+2026-09-17,Pan francés,Panadería,20,500,Tarjeta
+2026-09-17,Pan de queso,Panadería,9,1500,Nequi
+2026-09-17,Pan de queso,Panadería,12,1500,Efectivo
+2026-09-17,Bollo limpio,Panadería,7,1500,Tarjeta
+2026-09-17,Bollo limpio,Panadería,4,1500,Tarjeta
+2026-09-17,Bollo limpio,Panadería,1,1500,Daviplata
+2026-09-17,Croissant,Panadería,3,3000,Nequi
+2026-09-17,Croissant,Panadería,3,3000,Efectivo
+2026-09-17,Croissant,Panadería,4,3000,Efectivo
+2026-09-17,Pastel de pollo,Salados,6,3500,Efectivo
+2026-09-17,Pastel de pollo,Salados,8,3500,Efectivo
+2026-09-17,Empanada de carne,Salados,5,2500,Efectivo
+2026-09-17,Empanada de carne,Salados,5,2500,Nequi
+2026-09-17,Empanada de carne,Salados,2,2500,Efectivo
+2026-09-17,Empanada de carne,Salados,5,2500,Efectivo
+2026-09-17,Torta de chocolate (porción),Repostería,4,4500,Efectivo
+2026-09-17,Torta de chocolate (porción),Repostería,1,4500,Efectivo
+2026-09-17,Torta de chocolate (porción),Repostería,3,4500,Efectivo
+2026-09-17,Torta tres leches (porción),Repostería,3,5000,Efectivo
+2026-09-17,Torta tres leches (porción),Repostería,3,5000,Daviplata
+2026-09-17,Torta tres leches (porción),Repostería,2,5000,Nequi
+2026-09-17,Torta tres leches (porción),Repostería,3,5000,Daviplata
+2026-09-17,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-17,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-17,Café tinto,Bebidas,13,1500,Efectivo
+2026-09-17,Café tinto,Bebidas,11,1500,Nequi
+2026-09-17,Café tinto,Bebidas,6,1500,Nequi
+2026-09-17,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-17,Jugo natural,Bebidas,5,3500,Efectivo
+2026-09-17,Avena fría,Bebidas,2,3000,Efectivo
+2026-09-17,Avena fría,Bebidas,3,3000,Daviplata
+2026-09-18,Pan francés,Panadería,17,500,Efectivo
+2026-09-18,Pan francés,Panadería,33,500,Nequi
+2026-09-18,Pan de queso,Panadería,13,1500,Daviplata
+2026-09-18,Pan de queso,Panadería,12,1500,Nequi
+2026-09-18,Bollo limpio,Panadería,8,1500,Nequi
+2026-09-18,Bollo limpio,Panadería,8,1500,Nequi
+2026-09-18,Bollo limpio,Panadería,8,1500,Daviplata
+2026-09-18,Bollo limpio,Panadería,8,1500,Nequi
+2026-09-18,Croissant,Panadería,3,3000,Tarjeta
+2026-09-18,Croissant,Panadería,3,3000,Daviplata
+2026-09-18,Pastel de pollo,Salados,4,3500,Daviplata
+2026-09-18,Pastel de pollo,Salados,7,3500,Daviplata
+2026-09-18,Pastel de pollo,Salados,4,3500,Efectivo
+2026-09-18,Pastel de pollo,Salados,6,3500,Efectivo
+2026-09-18,Empanada de carne,Salados,7,2500,Nequi
+2026-09-18,Empanada de carne,Salados,5,2500,Efectivo
+2026-09-18,Empanada de carne,Salados,9,2500,Daviplata
+2026-09-18,Torta de chocolate (porción),Repostería,4,4500,Nequi
+2026-09-18,Torta de chocolate (porción),Repostería,4,4500,Daviplata
+2026-09-18,Torta tres leches (porción),Repostería,3,5000,Efectivo
+2026-09-18,Torta tres leches (porción),Repostería,5,5000,Efectivo
+2026-09-18,Torta tres leches (porción),Repostería,3,5000,Nequi
+2026-09-18,Galletas de mantequilla (paquete),Repostería,2,3000,Nequi
+2026-09-18,Galletas de mantequilla (paquete),Repostería,2,3000,Nequi
+2026-09-18,Café tinto,Bebidas,14,1500,Efectivo
+2026-09-18,Café tinto,Bebidas,7,1500,Efectivo
+2026-09-18,Café tinto,Bebidas,13,1500,Efectivo
+2026-09-18,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-18,Jugo natural,Bebidas,5,3500,Efectivo
+2026-09-18,Jugo natural,Bebidas,2,3500,Nequi
+2026-09-18,Jugo natural,Bebidas,4,3500,Nequi
+2026-09-18,Avena fría,Bebidas,3,3000,Efectivo
+2026-09-18,Avena fría,Bebidas,4,3000,Nequi
+2026-09-18,Avena fría,Bebidas,4,3000,Efectivo
+2026-09-18,Avena fría,Bebidas,3,3000,Efectivo
+2026-09-19,Pan francés,Panadería,37,500,Daviplata
+2026-09-19,Pan francés,Panadería,20,500,Efectivo
+2026-09-19,Pan de queso,Panadería,9,1500,Efectivo
+2026-09-19,Pan de queso,Panadería,14,1500,Efectivo
+2026-09-19,Pan de queso,Panadería,11,1500,Nequi
+2026-09-19,Bollo limpio,Panadería,10,1500,Daviplata
+2026-09-19,Bollo limpio,Panadería,11,1500,Nequi
+2026-09-19,Bollo limpio,Panadería,9,1500,Nequi
+2026-09-19,Bollo limpio,Panadería,9,1500,Nequi
+2026-09-19,Croissant,Panadería,5,3000,Nequi
+2026-09-19,Croissant,Panadería,6,3000,Efectivo
+2026-09-19,Pastel de pollo,Salados,8,3500,Nequi
+2026-09-19,Pastel de pollo,Salados,7,3500,Nequi
+2026-09-19,Empanada de carne,Salados,7,2500,Daviplata
+2026-09-19,Empanada de carne,Salados,7,2500,Nequi
+2026-09-19,Empanada de carne,Salados,8,2500,Tarjeta
+2026-09-19,Empanada de carne,Salados,5,2500,Tarjeta
+2026-09-19,Torta de chocolate (porción),Repostería,5,4500,Efectivo
+2026-09-19,Torta de chocolate (porción),Repostería,3,4500,Tarjeta
+2026-09-19,Torta tres leches (porción),Repostería,4,5000,Nequi
+2026-09-19,Torta tres leches (porción),Repostería,4,5000,Efectivo
+2026-09-19,Torta tres leches (porción),Repostería,3,5000,Efectivo
+2026-09-19,Galletas de mantequilla (paquete),Repostería,3,3000,Tarjeta
+2026-09-19,Galletas de mantequilla (paquete),Repostería,2,3000,Nequi
+2026-09-19,Galletas de mantequilla (paquete),Repostería,3,3000,Efectivo
+2026-09-19,Café tinto,Bebidas,7,1500,Nequi
+2026-09-19,Café tinto,Bebidas,15,1500,Efectivo
+2026-09-19,Café tinto,Bebidas,15,1500,Tarjeta
+2026-09-19,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-19,Jugo natural,Bebidas,4,3500,Nequi
+2026-09-19,Jugo natural,Bebidas,4,3500,Efectivo
+2026-09-19,Avena fría,Bebidas,3,3000,Nequi
+2026-09-19,Avena fría,Bebidas,4,3000,Efectivo
+2026-09-20,Pan francés,Panadería,36,500,Nequi
+2026-09-20,Pan francés,Panadería,31,500,Nequi
+2026-09-20,Pan de queso,Panadería,10,1500,Efectivo
+2026-09-20,Pan de queso,Panadería,13,1500,Tarjeta
+2026-09-20,Bollo limpio,Panadería,9,1500,Nequi
+2026-09-20,Bollo limpio,Panadería,10,1500,Nequi
+2026-09-20,Croissant,Panadería,4,3000,Efectivo
+2026-09-20,Croissant,Panadería,4,3000,Efectivo
+2026-09-20,Croissant,Panadería,2,3000,Efectivo
+2026-09-20,Croissant,Panadería,3,3000,Efectivo
+2026-09-20,Pastel de pollo,Salados,4,3500,Efectivo
+2026-09-20,Pastel de pollo,Salados,6,3500,Nequi
+2026-09-20,Pastel de pollo,Salados,4,3500,Efectivo
+2026-09-20,Empanada de carne,Salados,5,2500,Efectivo
+2026-09-20,Empanada de carne,Salados,2,2500,Efectivo
+2026-09-20,Torta de chocolate (porción),Repostería,3,4500,Nequi
+2026-09-20,Torta de chocolate (porción),Repostería,3,4500,Daviplata
+2026-09-20,Torta de chocolate (porción),Repostería,2,4500,Nequi
+2026-09-20,Torta tres leches (porción),Repostería,3,5000,Efectivo
+2026-09-20,Torta tres leches (porción),Repostería,3,5000,Efectivo
+2026-09-20,Torta tres leches (porción),Repostería,1,5000,Nequi
+2026-09-20,Torta tres leches (porción),Repostería,3,5000,Tarjeta
+2026-09-20,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-20,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-20,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-20,Galletas de mantequilla (paquete),Repostería,1,3000,Daviplata
+2026-09-20,Café tinto,Bebidas,13,1500,Daviplata
+2026-09-20,Café tinto,Bebidas,5,1500,Nequi
+2026-09-20,Jugo natural,Bebidas,5,3500,Efectivo
+2026-09-20,Jugo natural,Bebidas,1,3500,Tarjeta
+2026-09-20,Jugo natural,Bebidas,5,3500,Nequi
+2026-09-20,Jugo natural,Bebidas,5,3500,Tarjeta
+2026-09-20,Avena fría,Bebidas,2,3000,Tarjeta
+2026-09-20,Avena fría,Bebidas,4,3000,Efectivo
+2026-09-20,Avena fría,Bebidas,4,3000,Efectivo
+2026-09-21,Pan francés,Panadería,20,500,Nequi
+2026-09-21,Pan francés,Panadería,11,500,Efectivo
+2026-09-21,Pan de queso,Panadería,5,1500,Nequi
+2026-09-21,Pan de queso,Panadería,11,1500,Daviplata
+2026-09-21,Bollo limpio,Panadería,3,1500,Daviplata
+2026-09-21,Bollo limpio,Panadería,3,1500,Daviplata
+2026-09-21,Bollo limpio,Panadería,5,1500,Nequi
+2026-09-21,Bollo limpio,Panadería,5,1500,Efectivo
+2026-09-21,Croissant,Panadería,3,3000,Nequi
+2026-09-21,Croissant,Panadería,2,3000,Efectivo
+2026-09-21,Pastel de pollo,Salados,2,3500,Nequi
+2026-09-21,Pastel de pollo,Salados,4,3500,Nequi
+2026-09-21,Pastel de pollo,Salados,3,3500,Daviplata
+2026-09-21,Empanada de carne,Salados,6,2500,Efectivo
+2026-09-21,Empanada de carne,Salados,5,2500,Nequi
+2026-09-21,Empanada de carne,Salados,4,2500,Tarjeta
+2026-09-21,Torta de chocolate (porción),Repostería,2,4500,Efectivo
+2026-09-21,Torta de chocolate (porción),Repostería,3,4500,Nequi
+2026-09-21,Torta de chocolate (porción),Repostería,1,4500,Daviplata
+2026-09-21,Torta tres leches (porción),Repostería,2,5000,Efectivo
+2026-09-21,Torta tres leches (porción),Repostería,2,5000,Nequi
+2026-09-21,Torta tres leches (porción),Repostería,2,5000,Tarjeta
+2026-09-21,Galletas de mantequilla (paquete),Repostería,1,3000,Efectivo
+2026-09-21,Galletas de mantequilla (paquete),Repostería,2,3000,Daviplata
+2026-09-21,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-21,Galletas de mantequilla (paquete),Repostería,1,3000,Efectivo
+2026-09-21,Café tinto,Bebidas,6,1500,Efectivo
+2026-09-21,Café tinto,Bebidas,6,1500,Efectivo
+2026-09-21,Café tinto,Bebidas,10,1500,Nequi
+2026-09-21,Jugo natural,Bebidas,4,3500,Efectivo
+2026-09-21,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-21,Avena fría,Bebidas,3,3000,Daviplata
+2026-09-21,Avena fría,Bebidas,1,3000,Nequi
+2026-09-21,Avena fría,Bebidas,2,3000,Efectivo
+2026-09-21,Avena fría,Bebidas,5,3000,Daviplata
+2026-09-22,Pan francés,Panadería,25,500,Efectivo
+2026-09-22,Pan francés,Panadería,21,500,Daviplata
+2026-09-22,Pan francés,Panadería,12,500,Efectivo
+2026-09-22,Pan de queso,Panadería,5,1500,Tarjeta
+2026-09-22,Pan de queso,Panadería,5,1500,Efectivo
+2026-09-22,Pan de queso,Panadería,6,1500,Nequi
+2026-09-22,Bollo limpio,Panadería,8,1500,Tarjeta
+2026-09-22,Bollo limpio,Panadería,4,1500,Efectivo
+2026-09-22,Bollo limpio,Panadería,7,1500,Daviplata
+2026-09-22,Croissant,Panadería,2,3000,Nequi
+2026-09-22,Croissant,Panadería,3,3000,Tarjeta
+2026-09-22,Croissant,Panadería,2,3000,Efectivo
+2026-09-22,Pastel de pollo,Salados,7,3500,Daviplata
+2026-09-22,Pastel de pollo,Salados,1,3500,Efectivo
+2026-09-22,Empanada de carne,Salados,4,2500,Efectivo
+2026-09-22,Empanada de carne,Salados,8,2500,Efectivo
+2026-09-22,Empanada de carne,Salados,4,2500,Efectivo
+2026-09-22,Torta de chocolate (porción),Repostería,3,4500,Daviplata
+2026-09-22,Torta de chocolate (porción),Repostería,2,4500,Nequi
+2026-09-22,Torta de chocolate (porción),Repostería,2,4500,Nequi
+2026-09-22,Torta de chocolate (porción),Repostería,1,4500,Nequi
+2026-09-22,Torta tres leches (porción),Repostería,2,5000,Nequi
+2026-09-22,Torta tres leches (porción),Repostería,2,5000,Nequi
+2026-09-22,Torta tres leches (porción),Repostería,3,5000,Nequi
+2026-09-22,Galletas de mantequilla (paquete),Repostería,1,3000,Efectivo
+2026-09-22,Galletas de mantequilla (paquete),Repostería,2,3000,Daviplata
+2026-09-22,Galletas de mantequilla (paquete),Repostería,1,3000,Daviplata
+2026-09-22,Café tinto,Bebidas,6,1500,Nequi
+2026-09-22,Café tinto,Bebidas,1,1500,Nequi
+2026-09-22,Café tinto,Bebidas,4,1500,Nequi
+2026-09-22,Café tinto,Bebidas,9,1500,Nequi
+2026-09-22,Jugo natural,Bebidas,5,3500,Efectivo
+2026-09-22,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-22,Avena fría,Bebidas,2,3000,Efectivo
+2026-09-22,Avena fría,Bebidas,5,3000,Nequi
+2026-09-22,Avena fría,Bebidas,3,3000,Efectivo
+2026-09-23,Pan francés,Panadería,23,500,Efectivo
+2026-09-23,Pan francés,Panadería,21,500,Efectivo
+2026-09-23,Pan francés,Panadería,20,500,Efectivo
+2026-09-23,Pan francés,Panadería,11,500,Nequi
+2026-09-23,Pan de queso,Panadería,8,1500,Tarjeta
+2026-09-23,Pan de queso,Panadería,9,1500,Efectivo
+2026-09-23,Pan de queso,Panadería,3,1500,Nequi
+2026-09-23,Pan de queso,Panadería,16,1500,Daviplata
+2026-09-23,Bollo limpio,Panadería,6,1500,Nequi
+2026-09-23,Bollo limpio,Panadería,4,1500,Nequi
+2026-09-23,Bollo limpio,Panadería,7,1500,Efectivo
+2026-09-23,Bollo limpio,Panadería,5,1500,Tarjeta
+2026-09-23,Croissant,Panadería,2,3000,Tarjeta
+2026-09-23,Croissant,Panadería,3,3000,Efectivo
+2026-09-23,Pastel de pollo,Salados,2,3500,Nequi
+2026-09-23,Pastel de pollo,Salados,3,3500,Efectivo
+2026-09-23,Pastel de pollo,Salados,2,3500,Daviplata
+2026-09-23,Empanada de carne,Salados,3,2500,Efectivo
+2026-09-23,Empanada de carne,Salados,5,2500,Efectivo
+2026-09-23,Empanada de carne,Salados,9,2500,Efectivo
+2026-09-23,Torta de chocolate (porción),Repostería,4,4500,Daviplata
+2026-09-23,Torta de chocolate (porción),Repostería,2,4500,Daviplata
+2026-09-23,Torta tres leches (porción),Repostería,2,5000,Nequi
+2026-09-23,Torta tres leches (porción),Repostería,2,5000,Daviplata
+2026-09-23,Galletas de mantequilla (paquete),Repostería,1,3000,Daviplata
+2026-09-23,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-23,Galletas de mantequilla (paquete),Repostería,1,3000,Tarjeta
+2026-09-23,Café tinto,Bebidas,14,1500,Daviplata
+2026-09-23,Café tinto,Bebidas,1,1500,Efectivo
+2026-09-23,Jugo natural,Bebidas,2,3500,Tarjeta
+2026-09-23,Jugo natural,Bebidas,4,3500,Nequi
+2026-09-23,Jugo natural,Bebidas,5,3500,Nequi
+2026-09-23,Jugo natural,Bebidas,6,3500,Efectivo
+2026-09-23,Avena fría,Bebidas,5,3000,Tarjeta
+2026-09-23,Avena fría,Bebidas,4,3000,Efectivo
+2026-09-23,Avena fría,Bebidas,4,3000,Efectivo
+2026-09-24,Pan francés,Panadería,8,500,Efectivo
+2026-09-24,Pan francés,Panadería,33,500,Nequi
+2026-09-24,Pan de queso,Panadería,10,1500,Daviplata
+2026-09-24,Pan de queso,Panadería,12,1500,Daviplata
+2026-09-24,Pan de queso,Panadería,10,1500,Nequi
+2026-09-24,Bollo limpio,Panadería,10,1500,Tarjeta
+2026-09-24,Bollo limpio,Panadería,5,1500,Daviplata
+2026-09-24,Bollo limpio,Panadería,7,1500,Nequi
+2026-09-24,Bollo limpio,Panadería,7,1500,Daviplata
+2026-09-24,Croissant,Panadería,4,3000,Nequi
+2026-09-24,Croissant,Panadería,3,3000,Daviplata
+2026-09-24,Pastel de pollo,Salados,6,3500,Efectivo
+2026-09-24,Pastel de pollo,Salados,2,3500,Nequi
+2026-09-24,Pastel de pollo,Salados,8,3500,Efectivo
+2026-09-24,Empanada de carne,Salados,5,2500,Efectivo
+2026-09-24,Empanada de carne,Salados,4,2500,Daviplata
+2026-09-24,Torta de chocolate (porción),Repostería,2,4500,Efectivo
+2026-09-24,Torta de chocolate (porción),Repostería,2,4500,Daviplata
+2026-09-24,Torta de chocolate (porción),Repostería,1,4500,Efectivo
+2026-09-24,Torta tres leches (porción),Repostería,4,5000,Efectivo
+2026-09-24,Torta tres leches (porción),Repostería,4,5000,Daviplata
+2026-09-24,Galletas de mantequilla (paquete),Repostería,1,3000,Efectivo
+2026-09-24,Galletas de mantequilla (paquete),Repostería,2,3000,Daviplata
+2026-09-24,Café tinto,Bebidas,12,1500,Daviplata
+2026-09-24,Café tinto,Bebidas,6,1500,Nequi
+2026-09-24,Café tinto,Bebidas,14,1500,Efectivo
+2026-09-24,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-24,Jugo natural,Bebidas,4,3500,Nequi
+2026-09-24,Jugo natural,Bebidas,4,3500,Nequi
+2026-09-24,Avena fría,Bebidas,3,3000,Tarjeta
+2026-09-24,Avena fría,Bebidas,3,3000,Nequi
+2026-09-24,Avena fría,Bebidas,5,3000,Daviplata
+2026-09-25,Pan francés,Panadería,17,500,Daviplata
+2026-09-25,Pan francés,Panadería,16,500,Nequi
+2026-09-25,Pan francés,Panadería,33,500,Efectivo
+2026-09-25,Pan francés,Panadería,21,500,Daviplata
+2026-09-25,Pan de queso,Panadería,13,1500,Efectivo
+2026-09-25,Pan de queso,Panadería,8,1500,Nequi
+2026-09-25,Pan de queso,Panadería,9,1500,Efectivo
+2026-09-25,Pan de queso,Panadería,14,1500,Nequi
+2026-09-25,Bollo limpio,Panadería,3,1500,Efectivo
+2026-09-25,Bollo limpio,Panadería,7,1500,Nequi
+2026-09-25,Bollo limpio,Panadería,9,1500,Nequi
+2026-09-25,Croissant,Panadería,4,3000,Efectivo
+2026-09-25,Croissant,Panadería,1,3000,Efectivo
+2026-09-25,Pastel de pollo,Salados,7,3500,Daviplata
+2026-09-25,Pastel de pollo,Salados,5,3500,Efectivo
+2026-09-25,Pastel de pollo,Salados,2,3500,Nequi
+2026-09-25,Pastel de pollo,Salados,3,3500,Efectivo
+2026-09-25,Empanada de carne,Salados,4,2500,Nequi
+2026-09-25,Empanada de carne,Salados,6,2500,Tarjeta
+2026-09-25,Torta de chocolate (porción),Repostería,3,4500,Efectivo
+2026-09-25,Torta de chocolate (porción),Repostería,3,4500,Efectivo
+2026-09-25,Torta de chocolate (porción),Repostería,3,4500,Efectivo
+2026-09-25,Torta tres leches (porción),Repostería,2,5000,Efectivo
+2026-09-25,Torta tres leches (porción),Repostería,5,5000,Efectivo
+2026-09-25,Torta tres leches (porción),Repostería,4,5000,Efectivo
+2026-09-25,Galletas de mantequilla (paquete),Repostería,3,3000,Efectivo
+2026-09-25,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-25,Café tinto,Bebidas,8,1500,Nequi
+2026-09-25,Café tinto,Bebidas,15,1500,Efectivo
+2026-09-25,Jugo natural,Bebidas,2,3500,Tarjeta
+2026-09-25,Jugo natural,Bebidas,6,3500,Tarjeta
+2026-09-25,Avena fría,Bebidas,2,3000,Efectivo
+2026-09-25,Avena fría,Bebidas,3,3000,Daviplata
+2026-09-26,Pan francés,Panadería,20,500,Nequi
+2026-09-26,Pan francés,Panadería,27,500,Efectivo
+2026-09-26,Pan de queso,Panadería,10,1500,Efectivo
+2026-09-26,Pan de queso,Panadería,10,1500,Efectivo
+2026-09-26,Bollo limpio,Panadería,9,1500,Efectivo
+2026-09-26,Bollo limpio,Panadería,7,1500,Nequi
+2026-09-26,Bollo limpio,Panadería,10,1500,Efectivo
+2026-09-26,Croissant,Panadería,3,3000,Efectivo
+2026-09-26,Croissant,Panadería,3,3000,Nequi
+2026-09-26,Croissant,Panadería,4,3000,Nequi
+2026-09-26,Croissant,Panadería,6,3000,Efectivo
+2026-09-26,Pastel de pollo,Salados,6,3500,Efectivo
+2026-09-26,Pastel de pollo,Salados,5,3500,Efectivo
+2026-09-26,Pastel de pollo,Salados,3,3500,Nequi
+2026-09-26,Empanada de carne,Salados,6,2500,Nequi
+2026-09-26,Empanada de carne,Salados,8,2500,Efectivo
+2026-09-26,Empanada de carne,Salados,6,2500,Efectivo
+2026-09-26,Empanada de carne,Salados,8,2500,Efectivo
+2026-09-26,Torta de chocolate (porción),Repostería,3,4500,Efectivo
+2026-09-26,Torta de chocolate (porción),Repostería,3,4500,Daviplata
+2026-09-26,Torta de chocolate (porción),Repostería,3,4500,Daviplata
+2026-09-26,Torta de chocolate (porción),Repostería,2,4500,Nequi
+2026-09-26,Torta tres leches (porción),Repostería,6,5000,Efectivo
+2026-09-26,Torta tres leches (porción),Repostería,4,5000,Efectivo
+2026-09-26,Galletas de mantequilla (paquete),Repostería,2,3000,Daviplata
+2026-09-26,Galletas de mantequilla (paquete),Repostería,2,3000,Nequi
+2026-09-26,Galletas de mantequilla (paquete),Repostería,3,3000,Tarjeta
+2026-09-26,Galletas de mantequilla (paquete),Repostería,2,3000,Nequi
+2026-09-26,Café tinto,Bebidas,13,1500,Efectivo
+2026-09-26,Café tinto,Bebidas,16,1500,Efectivo
+2026-09-26,Café tinto,Bebidas,12,1500,Efectivo
+2026-09-26,Café tinto,Bebidas,11,1500,Nequi
+2026-09-26,Jugo natural,Bebidas,7,3500,Efectivo
+2026-09-26,Jugo natural,Bebidas,6,3500,Efectivo
+2026-09-26,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-26,Jugo natural,Bebidas,5,3500,Efectivo
+2026-09-26,Avena fría,Bebidas,4,3000,Nequi
+2026-09-26,Avena fría,Bebidas,3,3000,Nequi
+2026-09-26,Avena fría,Bebidas,4,3000,Efectivo
+2026-09-27,Pan francés,Panadería,31,500,Efectivo
+2026-09-27,Pan francés,Panadería,31,500,Tarjeta
+2026-09-27,Pan francés,Panadería,32,500,Efectivo
+2026-09-27,Pan de queso,Panadería,13,1500,Efectivo
+2026-09-27,Pan de queso,Panadería,9,1500,Efectivo
+2026-09-27,Pan de queso,Panadería,9,1500,Efectivo
+2026-09-27,Bollo limpio,Panadería,9,1500,Nequi
+2026-09-27,Bollo limpio,Panadería,8,1500,Daviplata
+2026-09-27,Bollo limpio,Panadería,9,1500,Nequi
+2026-09-27,Croissant,Panadería,2,3000,Tarjeta
+2026-09-27,Croissant,Panadería,3,3000,Efectivo
+2026-09-27,Pastel de pollo,Salados,5,3500,Tarjeta
+2026-09-27,Pastel de pollo,Salados,3,3500,Tarjeta
+2026-09-27,Pastel de pollo,Salados,6,3500,Efectivo
+2026-09-27,Pastel de pollo,Salados,3,3500,Efectivo
+2026-09-27,Empanada de carne,Salados,6,2500,Efectivo
+2026-09-27,Empanada de carne,Salados,4,2500,Efectivo
+2026-09-27,Empanada de carne,Salados,9,2500,Nequi
+2026-09-27,Torta de chocolate (porción),Repostería,3,4500,Daviplata
+2026-09-27,Torta de chocolate (porción),Repostería,3,4500,Efectivo
+2026-09-27,Torta de chocolate (porción),Repostería,3,4500,Tarjeta
+2026-09-27,Torta de chocolate (porción),Repostería,2,4500,Tarjeta
+2026-09-27,Torta tres leches (porción),Repostería,5,5000,Tarjeta
+2026-09-27,Torta tres leches (porción),Repostería,4,5000,Tarjeta
+2026-09-27,Torta tres leches (porción),Repostería,3,5000,Efectivo
+2026-09-27,Galletas de mantequilla (paquete),Repostería,3,3000,Efectivo
+2026-09-27,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-27,Galletas de mantequilla (paquete),Repostería,4,3000,Efectivo
+2026-09-27,Café tinto,Bebidas,6,1500,Efectivo
+2026-09-27,Café tinto,Bebidas,5,1500,Tarjeta
+2026-09-27,Café tinto,Bebidas,11,1500,Daviplata
+2026-09-27,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-27,Jugo natural,Bebidas,5,3500,Nequi
+2026-09-27,Avena fría,Bebidas,4,3000,Nequi
+2026-09-27,Avena fría,Bebidas,4,3000,Tarjeta
+2026-09-27,Avena fría,Bebidas,4,3000,Efectivo
+2026-09-27,Avena fría,Bebidas,3,3000,Nequi
+2026-09-28,Pan francés,Panadería,17,500,Daviplata
+2026-09-28,Pan francés,Panadería,18,500,Nequi
+2026-09-28,Pan francés,Panadería,13,500,Nequi
+2026-09-28,Pan francés,Panadería,24,500,Nequi
+2026-09-28,Pan de queso,Panadería,7,1500,Efectivo
+2026-09-28,Pan de queso,Panadería,6,1500,Nequi
+2026-09-28,Pan de queso,Panadería,12,1500,Tarjeta
+2026-09-28,Bollo limpio,Panadería,9,1500,Efectivo
+2026-09-28,Bollo limpio,Panadería,8,1500,Daviplata
+2026-09-28,Bollo limpio,Panadería,5,1500,Nequi
+2026-09-28,Croissant,Panadería,3,3000,Daviplata
+2026-09-28,Croissant,Panadería,3,3000,Efectivo
+2026-09-28,Croissant,Panadería,2,3000,Nequi
+2026-09-28,Pastel de pollo,Salados,4,3500,Tarjeta
+2026-09-28,Pastel de pollo,Salados,1,3500,Efectivo
+2026-09-28,Empanada de carne,Salados,5,2500,Efectivo
+2026-09-28,Empanada de carne,Salados,4,2500,Efectivo
+2026-09-28,Torta de chocolate (porción),Repostería,2,4500,Efectivo
+2026-09-28,Torta de chocolate (porción),Repostería,2,4500,Efectivo
+2026-09-28,Torta de chocolate (porción),Repostería,2,4500,Nequi
+2026-09-28,Torta tres leches (porción),Repostería,1,5000,Efectivo
+2026-09-28,Torta tres leches (porción),Repostería,3,5000,Nequi
+2026-09-28,Torta tres leches (porción),Repostería,2,5000,Nequi
+2026-09-28,Torta tres leches (porción),Repostería,2,5000,Efectivo
+2026-09-28,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-28,Galletas de mantequilla (paquete),Repostería,1,3000,Efectivo
+2026-09-28,Café tinto,Bebidas,12,1500,Nequi
+2026-09-28,Café tinto,Bebidas,1,1500,Tarjeta
+2026-09-28,Café tinto,Bebidas,16,1500,Nequi
+2026-09-28,Jugo natural,Bebidas,5,3500,Nequi
+2026-09-28,Jugo natural,Bebidas,6,3500,Nequi
+2026-09-28,Jugo natural,Bebidas,2,3500,Efectivo
+2026-09-28,Avena fría,Bebidas,1,3000,Efectivo
+2026-09-28,Avena fría,Bebidas,5,3000,Tarjeta
+2026-09-28,Avena fría,Bebidas,2,3000,Efectivo
+2026-09-29,Pan francés,Panadería,21,500,Efectivo
+2026-09-29,Pan francés,Panadería,15,500,Daviplata
+2026-09-29,Pan francés,Panadería,21,500,Efectivo
+2026-09-29,Pan de queso,Panadería,8,1500,Efectivo
+2026-09-29,Pan de queso,Panadería,7,1500,Daviplata
+2026-09-29,Bollo limpio,Panadería,8,1500,Efectivo
+2026-09-29,Bollo limpio,Panadería,4,1500,Daviplata
+2026-09-29,Bollo limpio,Panadería,7,1500,Efectivo
+2026-09-29,Bollo limpio,Panadería,6,1500,Tarjeta
+2026-09-29,Croissant,Panadería,1,3000,Efectivo
+2026-09-29,Croissant,Panadería,3,3000,Efectivo
+2026-09-29,Pastel de pollo,Salados,5,3500,Tarjeta
+2026-09-29,Pastel de pollo,Salados,1,3500,Efectivo
+2026-09-29,Empanada de carne,Salados,5,2500,Efectivo
+2026-09-29,Empanada de carne,Salados,7,2500,Efectivo
+2026-09-29,Torta de chocolate (porción),Repostería,2,4500,Efectivo
+2026-09-29,Torta de chocolate (porción),Repostería,3,4500,Daviplata
+2026-09-29,Torta tres leches (porción),Repostería,2,5000,Efectivo
+2026-09-29,Torta tres leches (porción),Repostería,1,5000,Efectivo
+2026-09-29,Torta tres leches (porción),Repostería,4,5000,Efectivo
+2026-09-29,Torta tres leches (porción),Repostería,2,5000,Daviplata
+2026-09-29,Galletas de mantequilla (paquete),Repostería,2,3000,Tarjeta
+2026-09-29,Galletas de mantequilla (paquete),Repostería,2,3000,Nequi
+2026-09-29,Café tinto,Bebidas,5,1500,Daviplata
+2026-09-29,Café tinto,Bebidas,19,1500,Efectivo
+2026-09-29,Café tinto,Bebidas,9,1500,Efectivo
+2026-09-29,Jugo natural,Bebidas,3,3500,Daviplata
+2026-09-29,Jugo natural,Bebidas,3,3500,Tarjeta
+2026-09-29,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-29,Avena fría,Bebidas,3,3000,Nequi
+2026-09-29,Avena fría,Bebidas,1,3000,Daviplata
+2026-09-29,Avena fría,Bebidas,4,3000,Nequi
+2026-09-29,Avena fría,Bebidas,4,3000,Efectivo
+2026-09-30,Pan francés,Panadería,15,500,Tarjeta
+2026-09-30,Pan francés,Panadería,21,500,Efectivo
+2026-09-30,Pan de queso,Panadería,5,1500,Efectivo
+2026-09-30,Pan de queso,Panadería,9,1500,Nequi
+2026-09-30,Bollo limpio,Panadería,6,1500,Daviplata
+2026-09-30,Bollo limpio,Panadería,4,1500,Efectivo
+2026-09-30,Bollo limpio,Panadería,6,1500,Tarjeta
+2026-09-30,Croissant,Panadería,3,3000,Tarjeta
+2026-09-30,Croissant,Panadería,2,3000,Daviplata
+2026-09-30,Pastel de pollo,Salados,4,3500,Nequi
+2026-09-30,Pastel de pollo,Salados,6,3500,Tarjeta
+2026-09-30,Pastel de pollo,Salados,6,3500,Nequi
+2026-09-30,Pastel de pollo,Salados,2,3500,Nequi
+2026-09-30,Empanada de carne,Salados,5,2500,Nequi
+2026-09-30,Empanada de carne,Salados,5,2500,Daviplata
+2026-09-30,Torta de chocolate (porción),Repostería,3,4500,Efectivo
+2026-09-30,Torta de chocolate (porción),Repostería,5,4500,Nequi
+2026-09-30,Torta de chocolate (porción),Repostería,3,4500,Nequi
+2026-09-30,Torta tres leches (porción),Repostería,4,5000,Efectivo
+2026-09-30,Torta tres leches (porción),Repostería,3,5000,Efectivo
+2026-09-30,Torta tres leches (porción),Repostería,3,5000,Efectivo
+2026-09-30,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-30,Galletas de mantequilla (paquete),Repostería,1,3000,Nequi
+2026-09-30,Galletas de mantequilla (paquete),Repostería,2,3000,Efectivo
+2026-09-30,Café tinto,Bebidas,6,1500,Efectivo
+2026-09-30,Café tinto,Bebidas,14,1500,Efectivo
+2026-09-30,Jugo natural,Bebidas,3,3500,Efectivo
+2026-09-30,Jugo natural,Bebidas,3,3500,Nequi
+2026-09-30,Avena fría,Bebidas,4,3000,Efectivo
+2026-09-30,Avena fría,Bebidas,3,3000,Efectivo

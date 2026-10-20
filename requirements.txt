@@ -1,0 +1,5 @@
+# Python 3.10 a 3.13 (CrewAI no soporta aún 3.14)
+crewai[google-genai]==1.15.27
+python-dotenv>=1.0
+# Opcional, solo si usará Groq u Ollama como proveedor:
+crewai[litellm]==1.15.27
